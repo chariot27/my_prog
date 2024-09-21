@@ -1,0 +1,5 @@
+O princípio de Inversão de Dependência (Dependency Inversion Principle, DIP) é um conceito fundamental em design de software que ajuda a reduzir a dependência entre as classes e a tornar o sistema mais flexível e escalável.
+
+O que é a Inversão de Dependência?
+
+A Inversão de Dependência é um princípio que diz que as classes de alto nível (ou seja, as classes que fazem parte da lógica de negócios) não devem depender de classes de baixo nível (ou seja, as classes que fazem parte da infraestrutura ou da implementação). Em vez disso, ambas as classes devem depender de abstrações.
